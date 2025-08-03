@@ -29,14 +29,14 @@ This project is a simple machine learning model that predicts house sale prices 
 
 ---
 
-## 🚀 How to Run Locally
+## 📦 Installation
 
-### 1. **Clone the Repository**
-```bash
-git clone https://github.com/Arik-code98/SCT_ML_01.git
-cd SCT_ML_01
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Arik-code98/SCT_ML_02.git
+   cd SCT_ML_02
 
-streamlit run app.py #This runs the model on a localhost server
+   streamlit run app.py #This runs the model on a localhost server
 
 Link for the hosted Model 
 https://sctml01-mtp9lq3onlfd8wkmjsgttw.streamlit.app/
