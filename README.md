@@ -31,7 +31,7 @@ This project is a simple machine learning model that predicts house sale prices 
 
 ## 📦 Installation
 
-1. **Clone the repository**
+ **Clone the repository**
    ```bash
    git clone https://github.com/Arik-code98/SCT_ML_02.git
    cd SCT_ML_02
